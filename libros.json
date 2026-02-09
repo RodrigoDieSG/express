@@ -1,0 +1,7 @@
+{
+  "books": [
+    {"id": 1, "title": "El resplandor", "author": "Stephen King"},
+    {"id": 2, "title": "Crónica de una muerte anunciada", "author": "Gabriel García Márquez"},
+    {"id": 3, "title": "Fundación", "author": "Isaac Asimov"}
+  ]
+}
